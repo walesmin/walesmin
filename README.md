@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=walesmin&fontSize=90)
+![header](walesmin)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walesmin&layout=compact)
 
