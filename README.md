@@ -1,4 +1,5 @@
-![walesmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=walesmin&show_icons=true&theme=radical)
+![walesmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=walesmin&show_icons=true&theme=default)
+
 
 
 
