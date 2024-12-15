@@ -4,7 +4,7 @@
 
 
 
-## SKILLS
+## SKILLS & TOOLS
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -19,5 +19,5 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
-
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walesmin&layout=compact)
