@@ -1,23 +1,8 @@
 ### WALESMIN 👋
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walesmin&layout=compact)
 
 
-<!--
-**walesmin/walesmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## SKILLS
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -34,4 +19,5 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
-## PROJECTS
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walesmin&layout=compact)
